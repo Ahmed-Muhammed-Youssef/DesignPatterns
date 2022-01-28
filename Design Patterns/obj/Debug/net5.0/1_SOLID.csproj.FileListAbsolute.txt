@@ -1,0 +1,32 @@
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\bin\Debug\net5.0\1_SOLID.exe
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\bin\Debug\net5.0\1_SOLID.deps.json
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\bin\Debug\net5.0\1_SOLID.runtimeconfig.json
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\bin\Debug\net5.0\1_SOLID.runtimeconfig.dev.json
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\bin\Debug\net5.0\1_SOLID.dll
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\bin\Debug\net5.0\ref\1_SOLID.dll
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\bin\Debug\net5.0\1_SOLID.pdb
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\obj\Debug\net5.0\1_SOLID.csproj.AssemblyReference.cache
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\obj\Debug\net5.0\1_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\obj\Debug\net5.0\1_SOLID.AssemblyInfoInputs.cache
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\obj\Debug\net5.0\1_SOLID.AssemblyInfo.cs
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\obj\Debug\net5.0\1_SOLID.csproj.CoreCompileInputs.cache
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\obj\Debug\net5.0\1_SOLID.dll
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\obj\Debug\net5.0\ref\1_SOLID.dll
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\obj\Debug\net5.0\1_SOLID.pdb
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\Design Patterns\obj\Debug\net5.0\1_SOLID.genruntimeconfig.cache
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\bin\Debug\net5.0\1_SOLID.exe
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\bin\Debug\net5.0\1_SOLID.deps.json
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\bin\Debug\net5.0\1_SOLID.runtimeconfig.json
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\bin\Debug\net5.0\1_SOLID.runtimeconfig.dev.json
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\bin\Debug\net5.0\1_SOLID.dll
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\bin\Debug\net5.0\ref\1_SOLID.dll
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\bin\Debug\net5.0\1_SOLID.pdb
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\obj\Debug\net5.0\1_SOLID.csproj.AssemblyReference.cache
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\obj\Debug\net5.0\1_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\obj\Debug\net5.0\1_SOLID.AssemblyInfoInputs.cache
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\obj\Debug\net5.0\1_SOLID.AssemblyInfo.cs
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\obj\Debug\net5.0\1_SOLID.csproj.CoreCompileInputs.cache
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\obj\Debug\net5.0\1_SOLID.dll
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\obj\Debug\net5.0\ref\1_SOLID.dll
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\obj\Debug\net5.0\1_SOLID.pdb
+E:\Programming\C#\projects\Design Patterns in C#\Design Patterns\obj\Debug\net5.0\1_SOLID.genruntimeconfig.cache
