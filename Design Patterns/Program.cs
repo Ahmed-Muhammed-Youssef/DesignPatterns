@@ -7,17 +7,17 @@ namespace SOLID
         static void Main(string[] args)
         {
             // Single Resposibility Principle
-           /* var j = new Journal();
-            j.AddEntery("I learnt single resposibility today");
-            j.AddEntery("I practised some problem solving.");
-            Console.WriteLine(j);
+            /* var j = new Journal();
+             j.AddEntery("I learnt single resposibility today");
+             j.AddEntery("I practised some problem solving.");
+             Console.WriteLine(j);
 
-            var filename = @"c:\temp\myjournal.txt";
-            Persistence.SaveToFile(j, filename);
-            Console.WriteLine(Persistence.LoadFile(filename));*/
+             var filename = @"c:\temp\myjournal.txt";
+             Persistence.SaveToFile(j, filename);
+             Console.WriteLine(Persistence.LoadFile(filename));*/
 
             //Open Closed Principle
-            Product[] products = new Product[]
+            /*Product[] products = new Product[]
             {
                 new Product("mobile", Color.blue, Size.small),
                 new Product("mango", Color.green, Size.medium),
@@ -42,7 +42,14 @@ namespace SOLID
                 ) ))
             {
                 Console.WriteLine(item.Name);
-            }
+            }*/
+
+            //Liskov Substitution Principle
+            /*Rectangle r = new Rectangle(20, 30);
+            Rectangle square = new Square();
+            square.Width = 10;
+            Console.WriteLine(r);
+            Console.WriteLine(square);*/
         }
     }
 }
