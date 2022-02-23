@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\C#\\projects\\Design Patterns in C#\\Design Patterns\\1_SOLID.csproj",
+      "projectUniqueName": "E:\\Programming\\projects\\Design Patterns in C#\\Design Patterns\\1_SOLID.csproj",
       "projectName": "1_SOLID",
-      "projectPath": "E:\\Programming\\C#\\projects\\Design Patterns in C#\\Design Patterns\\1_SOLID.csproj",
+      "projectPath": "E:\\Programming\\projects\\Design Patterns in C#\\Design Patterns\\1_SOLID.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\C#\\projects\\Design Patterns in C#\\Design Patterns\\obj\\",
+      "outputPath": "E:\\Programming\\projects\\Design Patterns in C#\\Design Patterns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

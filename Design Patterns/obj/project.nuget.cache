@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+1nJVAC2+h4mOFyuZa7A0x7Se5IqDRu2mUjqlHUwbLzDsuSFl/C0Or1+K9rqAR5UPbqvMM/mek6lDJSxLKYRMw==",
+  "dgSpecHash": "s6KbsEPSOyrYsbLb480IXyFN+J/aCLBJu6YNj2sZbhKRc+Y7UP4pdUgJGcCJGCfUqsmCKzFUP43pblzPi4/u3A==",
   "success": true,
-  "projectFilePath": "E:\\Programming\\C#\\projects\\Design Patterns in C#\\Design Patterns\\1_SOLID.csproj",
+  "projectFilePath": "E:\\Programming\\projects\\Design Patterns in C#\\Design Patterns\\1_SOLID.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

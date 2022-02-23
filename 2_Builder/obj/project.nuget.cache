@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ue0KyhpzucKYQu4rWDv4D1C3bj63n8t18/2ewAer4EPlxiSk9Fhr8/YnLMBXuWXi+wcGkUhT8NVUT9pZgKjSug==",
+  "dgSpecHash": "JOTgepe51e8TlZt232wSy2QxONzml25UQ7rVR0CqreCqpeSgCy+WdiOBw2EPQJ0yP1meRc5pZZEzZeFq5R/IoQ==",
   "success": true,
-  "projectFilePath": "E:\\Programming\\C#\\projects\\Design Patterns in C#\\2_Builder\\2_Builder.csproj",
+  "projectFilePath": "E:\\Programming\\projects\\Design Patterns in C#\\2_Builder\\2_Builder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

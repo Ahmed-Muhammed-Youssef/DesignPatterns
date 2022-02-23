@@ -10,7 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		GammaCategorization.txt = GammaCategorization.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Builder", "2_Builder\2_Builder.csproj", "{142F41BB-AB3D-4970-BD57-088FAC591469}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_Builder", "2_Builder\2_Builder.csproj", "{142F41BB-AB3D-4970-BD57-088FAC591469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Factories", "3_Factories\3_Factories.csproj", "{6DDCB3D3-25E6-401D-A7B5-78B540137CE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +28,10 @@ Global
 		{142F41BB-AB3D-4970-BD57-088FAC591469}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{142F41BB-AB3D-4970-BD57-088FAC591469}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{142F41BB-AB3D-4970-BD57-088FAC591469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DDCB3D3-25E6-401D-A7B5-78B540137CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDCB3D3-25E6-401D-A7B5-78B540137CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDCB3D3-25E6-401D-A7B5-78B540137CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDCB3D3-25E6-401D-A7B5-78B540137CE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

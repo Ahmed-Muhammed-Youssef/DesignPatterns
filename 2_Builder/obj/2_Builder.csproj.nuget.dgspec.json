@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming\\C#\\projects\\Design Patterns in C#\\2_Builder\\2_Builder.csproj": {}
+    "E:\\Programming\\projects\\Design Patterns in C#\\2_Builder\\2_Builder.csproj": {}
   },
   "projects": {
-    "E:\\Programming\\C#\\projects\\Design Patterns in C#\\2_Builder\\2_Builder.csproj": {
+    "E:\\Programming\\projects\\Design Patterns in C#\\2_Builder\\2_Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\C#\\projects\\Design Patterns in C#\\2_Builder\\2_Builder.csproj",
+        "projectUniqueName": "E:\\Programming\\projects\\Design Patterns in C#\\2_Builder\\2_Builder.csproj",
         "projectName": "2_Builder",
-        "projectPath": "E:\\Programming\\C#\\projects\\Design Patterns in C#\\2_Builder\\2_Builder.csproj",
+        "projectPath": "E:\\Programming\\projects\\Design Patterns in C#\\2_Builder\\2_Builder.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming\\C#\\projects\\Design Patterns in C#\\2_Builder\\obj\\",
+        "outputPath": "E:\\Programming\\projects\\Design Patterns in C#\\2_Builder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
