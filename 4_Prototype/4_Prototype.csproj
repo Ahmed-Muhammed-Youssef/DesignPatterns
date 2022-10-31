@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>1_SOLID</RootNamespace>
+    <RootNamespace>_4_Prototype</RootNamespace>
   </PropertyGroup>
 
 </Project>
