@@ -16,6 +16,7 @@ namespace _7_Bridge
 
         }
     }
+    // implementation
     internal interface IRenderer 
     {
         void RenderCircle(float radius);
@@ -34,6 +35,7 @@ namespace _7_Bridge
             System.Console.WriteLine($"Drawing a circle on windows platform of radius {radius}");
         }
     }
+    // abstraction/ interface
     internal abstract class Shape 
     {
         protected readonly IRenderer renderer;
